@@ -1,12 +1,11 @@
 # BD_Jobs_Test02
-Q2: Help the Duo (Encourage to write the code in Kotlin/Swift/Dart)
+<b>Q2: Help the Duo (Encourage to write the code in Kotlin/Swift/Dart)</b>
  
 Every winter Konka and Titli donate warm blankets with the help of their Dadajan. Following the ritual, this year Konka has collected 53 blankets and Titli has collected 36 blankets. But due to the ongoing pandemic, they cannot do it in person. So, they thought about distributing them through NGOs. As they are not good with math, they went to Anis Bhai for a suggestion. Anis Bhai introduced them with the Fibonacci sequence which is a series of numbers where a number is the addition of the last two numbers. Following Anis Bhai’s idea, how many NGOs can they help?
  
 Solve this using your favorite programming language (Encourage using Kotlin/Swift/Dart)
 
 
-<p>
 Konka has 53, and Titly has 36 blanket
 Total Blanket: 89
 1 No. NGO will get: 1, Remain: 88
@@ -21,4 +20,3 @@ Total Blanket: 89
 Total NGOs can be helped: 9
 
 Process finished with exit code 0
-</p>
