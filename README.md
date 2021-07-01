@@ -5,6 +5,8 @@ Every winter Konka and Titli donate warm blankets with the help of their Dadajan
  
 Solve this using your favorite programming language (Encourage using Kotlin/Swift/Dart)
 
+<br><br>
+<b>OUTPUT:</b>
 <br>
 Konka has 53, and Titly has 36 blanket<br>
 Total Blanket: 89<br>
@@ -17,6 +19,6 @@ Total Blanket: 89<br>
 7 No. NGO will get: 21, Remain: 36<br>
 8 No. NGO will get: 34, Remain: 2<br>
 9 No. NGO will get: 2, Remain: 0<br>
-Total NGOs can be helped: 9<br>
 <br><br>
-Process finished with exit code 0
+Total NGOs will be helpful: 9<br>
+
