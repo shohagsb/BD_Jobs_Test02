@@ -19,6 +19,6 @@ Total Blanket: 89<br>
 7 No. NGO will get: 21, Remain: 36<br>
 8 No. NGO will get: 34, Remain: 2<br>
 9 No. NGO will get: 2, Remain: 0<br>
-Total NGOs will be helpful: 9<br>
 <br><br>
-Process finished with exit code 0
+Total NGOs will be helpful: 9<br>
+
