@@ -12,14 +12,14 @@ fun main(args: Array<String>) {
     while (totalBlanket > 0) {
         distributedNGO++
         sum = digit1 + digit2
+        digit1 = digit2
+        digit2 = sum
         if (sum <= totalBlanket) {
             totalBlanket -= sum
         } else {
             sum = totalBlanket
             totalBlanket -= sum
         }
-        digit1 = digit2
-        digit2 = sum
         println("$distributedNGO No. NGO will get: $sum, Remain: $totalBlanket")
     }
 
