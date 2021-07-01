@@ -23,5 +23,5 @@ fun main(args: Array<String>) {
         println("$distributedNGO No. NGO will get: $sum, Remain: $totalBlanket")
     }
 
-    println("Total NGOs can be helped: $distributedNGO")
+    println("Total NGOs will be helpful: $distributedNGO")
 }
